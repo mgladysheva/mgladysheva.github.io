@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Dmitry Gladyshev
 locale:           en_US
-url:
+url:              dgladyshev.com
 
 
 # Jekyll configuration
@@ -46,8 +46,8 @@ owner:
   bio: "Describe your self."
   email:
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: dagladyshev
+  facebook: dagladyshev
   google:
     plus: #username
     analytics:
@@ -55,7 +55,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: dgladyshev
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
