@@ -41,11 +41,11 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Dmitry Gladyshev
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
+  bio: "Passionate Java programmer"
+  email: dmitry.gladishev@gmail.com
+  disqus-shortname: dgladyshev
   twitter: dagladyshev
   facebook: dagladyshev
   google:
