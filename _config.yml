@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Dmitry Gladyshev
+title:            Marina Gladysheva
 locale:           en_US
 url:              
 
@@ -41,10 +41,10 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Dmitry Gladyshev
+  name: Marina Gladysheva
   avatar: bio-photo.jpg
-  bio: "Passionate Java programmer"
-  email: dmitry.gladishev@gmail.com
+  bio: "Passionate researcher, future mother and a pretty good wife"
+  email: magladisheva@gmail.com
   disqus-shortname: dgladyshev
   twitter: dagladyshev
   facebook: dagladyshev
